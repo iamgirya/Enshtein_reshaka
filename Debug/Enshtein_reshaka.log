@@ -1,0 +1,5 @@
+﻿  Enshtein_reshaka.cpp
+C:\Users\Папа\Desktop\Enshtein_reshaka\Enshtein_reshaka.cpp(205,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Папа\Desktop\Enshtein_reshaka\Enshtein_reshaka.cpp(268,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Папа\Desktop\Enshtein_reshaka\Enshtein_reshaka.cpp(40): warning C4715: getsvoim: значение возвращается не при всех путях выполнения
+  Enshtein_reshaka.vcxproj -> C:\Users\Папа\Desktop\Enshtein_reshaka\Debug\Enshtein_reshaka.exe
